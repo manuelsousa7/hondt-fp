@@ -109,8 +109,7 @@ def mandatos(nr_mandatos , nr_votos):
         if nr_votos[i] > maximo:
             maximo = nr_votos[i]
             maximo_posisao = i
-        elif nr_votos[i] == maximo:
-            if espelho_nr_votos[i] < espelho_nr_votos[maximo_posisao]:
+        elif nr_votos[i] == maximo and espelho_nr_votos[i] < espelho_nr_votos[maximo_posisao]:
                 maximo_posisao = i
 
         if (i+1) == len(nr_votos):
