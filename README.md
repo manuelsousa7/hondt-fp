@@ -8,7 +8,7 @@ Language: Python
 
 Developed by:
 - [Manuel Sousa](https://fenix.tecnico.ulisboa.pt/homepage/ist426040)  (84740)
-- Tiago Novais ()
+- Tiago Novais (84888)
 
 Guide: [Here!](https://github.com/manuelsousa7/hondt-fp/blob/master/dhondt.pdf) 
 
