@@ -61,8 +61,8 @@ partidos_nome_sigla =  \
 def atualizar_tuple (t_tuple , valor_a_alterar , posisao):
     """ 
         atualizar_tuple : tuplo , int , int -> tuplo
-        atualizar_tuple(t_tuple , valor_a_alterar , posisao) atualiza um valor de um tuple, com um valor recebido (valor_a_alterar),
-        com uma posisao especifica (posisao).
+        atualizar_tuple(t_tuple , valor_a_alterar , posisao) atualiza um valor de um tuple, 
+        com um valor recebido (valor_a_alterar),com uma posisao especifica (posisao)
     """ 
     lista = list(t_tuple)
     lista[posisao] = valor_a_alterar
@@ -151,7 +151,7 @@ def max_mandatos(mandatos):
     """ 
     max_mandatos : tuplo -> string
     max_mandatos(mandatos) retorna uma string com a sigla e nome do 
-    partido politico com maior representacao na Assembleia da Republica.
+    partido politico com maior representacao na Assembleia da Republica
     """
     mandatos_atribuidos = assembleia(mandatos)
     maximo = max(mandatos_atribuidos)
