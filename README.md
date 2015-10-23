@@ -1,12 +1,12 @@
-# Hondt - Fundamentos da Programação
+# Hondt - 1st Project (University of Lisbon)
 
-Prrojeto para calcular deputados na assembleia da Republica utilizando o método de Hondt
+This project was programmed to...
 
-# Detalhes - Projeto
+# Details - Project
 
-Linguagem: Python
+Language: Python
 
-Desenvolvido por:
+Developed by:
 - Manuel Sousa (84740)
 - Tiago Novais
 
