@@ -1,4 +1,4 @@
-# Hondt - 1st Project (University of Lisbon)
+# Hondt - (LEIC 15/16 S1)
 
 This project was programmed to calculate the number of elected deputies on the basis of votes.
 
@@ -6,9 +6,6 @@ This project was programmed to calculate the number of elected deputies on the b
 
 Language: Python
 
-Developed by:
-- [Manuel Sousa](https://fenix.tecnico.ulisboa.pt/homepage/ist426040)  (84740)
-- Tiago Novais (84888)
 
 Guide: [Here!](https://github.com/manuelsousa7/hondt-fp/blob/master/dhondt.pdf) 
 
